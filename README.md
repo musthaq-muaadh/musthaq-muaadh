@@ -10,12 +10,10 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
+ I’m currently working on **a study app**
  
- 🌱 I’m currently doing my study in **Pearson BTEC Level 5 HND in Computing (RQF)**
+ I’m currently doing my study in **Pearson BTEC Level 5 HND in Computing (RQF)**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/musthaq-muaadh/musthaq-muaadh/issues)**
+Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/musthaq-muaadh/musthaq-muaadh/issues)**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
-
- </div>
+</div>
