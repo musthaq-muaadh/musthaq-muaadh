@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **a marketplace**
  
- 🌱 I’m currently doing my study in ** Pearson BTEC Level 5 HND in Computing (RQF) **
+ 🌱 I’m currently doing my study in **Pearson BTEC Level 5 HND in Computing (RQF)**
 
 💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/musthaq-muaadh/musthaq-muaadh/issues)**
 
