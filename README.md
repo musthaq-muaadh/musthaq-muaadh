@@ -57,15 +57,14 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=musthaq-muaadh&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=musthaq-muaadh&theme=tokyonight" height="150"/>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=musthaq-muaadh&show_icons=true&theme=tokyonight" />
-<br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=musthaq-muaadh&theme=tokyonight" />
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=musthaq-muaadh&layout=compact&theme=tokyonight" />
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=musthaq-muaadh&layout=compact&theme=tokyonight" height="150"/>
+</p>
 
 ---
 
