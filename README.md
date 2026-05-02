@@ -24,6 +24,7 @@
 - JavaScript (ES6+)
 - Python
 - SQL
+- PHP
 
 ### 🌐 Frontend
 - React.js
@@ -33,6 +34,7 @@
 ### ⚙️ Backend
 - Node.js
 - Express.js
+- PHP
 
 ### 🔥 Database & Cloud
 - Firebase
@@ -42,8 +44,6 @@
 ### 🧰 Tools & Platforms
 - Git & GitHub
 - VS Code
-- Postman
-
 ---
 
 ## 📌 Current Focus
